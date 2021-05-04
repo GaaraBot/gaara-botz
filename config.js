@@ -96,15 +96,15 @@ const notregister = `*Comando não registrado, escreva ${prefix}menu para ver a 
 
 // MENSAGENS DE AUTOREPLY
 
-const botlindo = 'Bakaaaa 😣😣'
+const botlindo = 'Hehehe obgd'
 const linkbotlindo = 'https://photos1.iorbix.com/00/00/00/00/02/72/43/64/C--6tZwaASQH-b.jpg'
 const botfeio = 'Tu parece um sirgueijo, um caranguejo amassado 😡'
 const cadebot = 'Me chamou onii-chan 👉👈?'
-const botfdp = 'Te foder rapaz, te deitar na porrada quando tiver dormindo'
+const botfdp = 'Te foder rapaz, te deitar na porrada seu lixo'
 const botgostoso = 'Arigato go sai masu 😳👉👈'
 const botfofo = 'Arigato go sai masu 😳👉👈'
 const botbaianor = 'Convidei sua placa-mãe pra minha rede seu corno'
-const botcorno = 'Vai te foder, jogador de ff, comprador de pack do pézinho'
+const botcorno = 'Vai te foder, jogador de ff, comprador de pack do pézinho baba ovo de egrilo'
 const botputa = 'Senhora sua mãe 😡'
 const botgay = 'Falou o manja rola 😡'
 const botviado = 'Falou o manja rola 😡'
@@ -114,7 +114,7 @@ const numbotfeio = 'senhora sua mãe 😡'
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
     wait: '⌛ Espera afobado to fazendo... ⌛',
-    success: '✔️ Aee foii tmj mano! ✔️',
+    success: '✔️ Aee foii tmj mano! ksksks ✔️',
     error: {
         stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
         Iv: '❌ Link inválido ❌'
@@ -134,7 +134,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
 + 'FN:Meu criador^~^\n' 
 + 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=557187645787:+55 11 94750-7076\n' 
++ 'TEL;type=CELL;type=VOICE;waid=5511947507076:+55 11 94750-7076\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde

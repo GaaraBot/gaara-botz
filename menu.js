@@ -15,13 +15,13 @@ return `┏🔥࿗ gaara-bot ࿗🔥┓
 ║ _📷 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦:_ @bot não usa o insta
 ║
 ║ _🤖𝐆𝐢𝐭𝐡𝐮𝐛:_
-║ _*🌐https://suaurl.com/f31687 🌐*_
+║ _*🌐https://nn uso🌐*_
 ║
 ║ _🪀𝐆𝐫𝐮𝐩𝐨 𝐝𝐨 𝐰𝐩𝐩:_
-║ _*🌐 https://chat.whatsapp.com/KicQulb28AMKSFCTSRMDUH 🌐*_
+║ _*🌐 https://mes q vem 🌐*_
 ║
 ║ _📹 𝐘𝐨𝐮𝐭𝐮𝐛𝐞:_
-║ _*🌐https://www.youtube.com/channel/UCVypPLLgpDscaLbpCH2oiLw 🌐*_
+║ _*🌐https://mes q vem 🌐*_
 ║
 ┗═════════════════════┛ 
 

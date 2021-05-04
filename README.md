@@ -34,8 +34,8 @@ O GAARA-BOT é um bot com a base do [MhankBars](https://github.com/MhankBarBar/t
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
-git clone https://github.com/GaaraBot/gaarabot.git
-cd gaarabot
+git clone https://github.com/GaaraBot/bot-gaara.git
+cd bot-gaara
 bash install.sh
 npm install
 
@@ -105,9 +105,5 @@ Pix
 
 ---
 # 🤝 Contato
-
-[Whatsapp](https://api.whatsapp.com/send/?phone=%2B557187645787&text&app_absent=0)
-
-[Youtube](https://www.youtube.com/channel/UCK_e0brrGXeXk-zg2NFbJTg)
 
 
